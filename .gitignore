@@ -34,3 +34,7 @@ build/
 
 .idea/
 target/
+.gitattributes/
+mvnw/
+mvnw.cmd/
+.mvn/
